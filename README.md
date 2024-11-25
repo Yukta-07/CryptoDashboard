@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -28,3 +29,6 @@ git clone https://github.com/Yukta-07/CryptoDashboard.git
 
  <!-- start the dev server  -->
  npm run dev
+=======
+# CryptoDashboard
+>>>>>>> 131ca535f8612513e5a104100de97716ed33f096
